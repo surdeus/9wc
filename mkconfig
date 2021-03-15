@@ -1,0 +1,5 @@
+<$MKINCDIR/config
+PROGNAME = 9wc
+INCS = $INC9
+CFILES = main.c
+AFILES = $OBJ9
